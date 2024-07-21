@@ -1,0 +1,12 @@
+.vscode/
+.venv/
+*.py[cod]
+
+data/
+*.png
+*.zip
+
+!README_files/*
+!visualization/*
+
+*.pt
